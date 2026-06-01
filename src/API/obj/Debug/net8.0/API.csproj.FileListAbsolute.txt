@@ -148,3 +148,4 @@ C:\Users\vishw\ProductManagementAPI\src\API\obj\Debug\net8.0\refint\API.dll
 C:\Users\vishw\ProductManagementAPI\src\API\obj\Debug\net8.0\API.pdb
 C:\Users\vishw\ProductManagementAPI\src\API\obj\Debug\net8.0\API.genruntimeconfig.cache
 C:\Users\vishw\ProductManagementAPI\src\API\obj\Debug\net8.0\ref\API.dll
+C:\Users\vishw\ProductManagementAPI\src\API\obj\Debug\net8.0\API.sourcelink.json
